@@ -22,8 +22,11 @@ Run this script:
 
 
 Ex:
+
 `php attack.php +989123456789 10`
+
 or
+
 `php attack.php +989123456789`
 
 
