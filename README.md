@@ -13,7 +13,7 @@ Run this script:
 
 `pkg install git`
 
-`git clone ...`
+`git clone https://github.com/enixer-x/sms-bomber.git`
 
 `cd sms-bomber`
 
